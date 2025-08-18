@@ -28,10 +28,6 @@ It supports:
 - **Torch + Faster Whisper** (optional for speech)  
 
 ---
-
-## Screenshots
-
-
 ## 📂 Project Structure  
 ```
 Airline-Agent/
