@@ -1,0 +1,6 @@
+gradio
+requests
+pydantic
+faster-whisper
+edge-tts
+Pillow
