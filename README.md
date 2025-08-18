@@ -43,7 +43,7 @@ Airline-Agent/
 
 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/your-username/airline-assistant.git
+git clone https://github.com/dhanush-r-m/airline-assistant.git
 cd airline-assistant
 ```
 2️⃣ Create & activate virtual environment
