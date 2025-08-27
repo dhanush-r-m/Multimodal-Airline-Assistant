@@ -16,7 +16,7 @@ It supports:
 - 🎟 **PNR Fetch** (lookup booking details)  
 - 📦 **Baggage Allowance** (economy, business, frequent flyer tiers)  
 - 🖼️ **Vision AI** (analyze flight-related images like boarding passes)  
-- 🌐 **Gradio UI** for a seamless chat interface  
+- 🌐 **Gradio UI** for a seamless chat interface and many more 
 
 ---
 
