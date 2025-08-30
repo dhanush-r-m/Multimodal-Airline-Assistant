@@ -1,6 +1,6 @@
 # ✈️ Multimodal Airline Assistant  
 
-An **AI-powered Airline Assistant** that helps users book flights, check baggage allowances, and fetch booking details using **Ollama** for LLM reasoning and **Gradio** for an interactive multimodal UI.  
+An **AI-powered Airline Assistant** that helps users book flights, check baggage allowances, and fetch booking details using **Ollama** for LLM reasoning and **Gradio** for an interactive multimodal UI and many more.
 
 It supports:  
 - 🗣️ **Natural Language Queries** (e.g., *“Find flights from Bangalore to Delhi tomorrow”*)  
